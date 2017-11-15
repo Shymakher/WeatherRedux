@@ -1,0 +1,2 @@
+Simple React & Redux application that uses openweathermap api for showing weather in different cities.
+Also was used GoogleMap Api for showing the city, axios library for asynchronous request, redux-promise as middleware for converting promise into data object and  react-sparklines for showing the diagram of temperature, pressure and humidity.
